@@ -1,5 +1,4 @@
 //@file		Stack.cpp
-//@author	Noah Yu
 //@version	1.0
 /* Implementations for a stack class that handles expressions 
 from infix to postfix then finally evaluating the postfix expression.*/

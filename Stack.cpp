@@ -181,8 +181,6 @@ int main() {
 	string expr;
 	string postfix = "";
 
-	cout << "Author: Noah Yu" << endl << endl;
-
 	//reading expression for infix input
 	cout << endl << "Processing: ";
 	getline(cin, expr);
